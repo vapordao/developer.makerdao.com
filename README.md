@@ -1,4 +1,4 @@
-# Maker Developer pages
+# Vapor Developer pages
 
 Served via github pages with Jekyll.
 
