@@ -1,4 +1,4 @@
-# Vapor Developer pages
+# Vista Developer pages
 
 Served via github pages with Jekyll.
 
